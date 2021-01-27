@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm @ArmeetJatyani
-![@ArmeetJatyani](https://github-readme-stats.vercel.app/api?username=TrashToggled&count_private=true&show_icons=true&theme=tokyonight)
+![@ArmeetJatyani](https://github-readme-stats.vercel.app/api?username=TrashToggled&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 #### *HS @ EVHS 2022*
 ### Socials
