@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm ![@ArmeetJatyani](https://github.com/ArmeetJatyani)
+## 👋 Hi there, I'm [@ArmeetJatyani](https://github.com/ArmeetJatyani)
 ![@ArmeetJatyani](https://github-readme-stats.vercel.app/api?username=TrashToggled&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmeetJatyani&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 #### *HS @ EVHS 2022*
