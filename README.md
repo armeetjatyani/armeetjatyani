@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Armeet Singh Jatyani
 ============================================================================================================================================
 
-ML Researcher, Undergraduate @ Caltech
+Undergraduate @ Caltech, Interested in ML and CS
 --------------------------------------
 
 * 🖥️  See my portfolio at [armeet.ca](http://armeet.ca)
